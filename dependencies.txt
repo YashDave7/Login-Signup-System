@@ -1,0 +1,9 @@
+express --> For Routes and easy server.
+mysql   --> For database.
+bcryptjs    --> For securing the passwords.
+connect-flash   --> For displaying the flash messages such as invalid email, password,etc.
+ejs
+express-ejs-layouts
+express-session
+passport
+passport-local
